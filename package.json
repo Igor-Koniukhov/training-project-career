@@ -1,0 +1,15 @@
+{
+  "name": "newcarier",
+  "version": "1.0.6",
+  "description": "training project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Koniukhov Igor",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
